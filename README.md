@@ -36,6 +36,7 @@ For adding new content to the Documentation base, please follow the steps listed
 [Link on how to get this]: https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/
 
 3. Push your changes to the main branch
+> Do not push the PublishConfluencePage since it contains sensitive information - API Key. Keep it in a seperate location
 <pre><code>git add .
 git commit -m "Add commit message"
 git remote add origin git@github.com:documentation-securonix/doc.git
