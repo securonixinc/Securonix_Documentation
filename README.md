@@ -43,4 +43,6 @@ git remote add origin git@github.com:securonixinc/Securonix_Documentation.git
 git push -u origin main
 </code></pre>
 4. After a few minutes, the information you added would be automatically reflected in the [Documentation website] 
+
+
 [Documentation website]: https://securonixinc.github.io/Securonix_Documentation/
