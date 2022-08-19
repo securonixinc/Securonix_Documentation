@@ -9,7 +9,7 @@ This repository contains the Documentation for Securonix products and services.
 For adding new content to the Documentation base, please follow the steps listed below:
 
 1. If you are accessing the repo for the first time, clone the main branch. If not, skip to step 2.
-<pre><code> git clone git@github.com:documentation-securonix/doc.git
+<pre><code> git clone git@github.com:securonixinc/Securonix_Documentation.git
 </code></pre>
 2. If you already have a local repo, pull the recent changes. 
 <pre><code> git pull origin main
@@ -39,7 +39,8 @@ For adding new content to the Documentation base, please follow the steps listed
 > Do not push the PublishConfluencePage since it contains sensitive information - API Key. Keep it in a seperate location
 <pre><code>git add .
 git commit -m "Add commit message"
-git remote add origin git@github.com:documentation-securonix/doc.git
+git remote add origin git@github.com:securonixinc/Securonix_Documentation.git
 git push -u origin main
 </code></pre>
-4. After a few minutes, the information you added would be automatically reflected in the Documentation website
+4. After a few minutes, the information you added would be automatically reflected in the [Documentation website] 
+[Documentation website]: https://securonixinc.github.io/Securonix_Documentation/
