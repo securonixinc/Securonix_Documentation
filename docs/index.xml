@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on Documentation</title><link>http://documentation-securonix.github.io/doc/docs/</link><description>Recent content in Docs on Documentation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://documentation-securonix.github.io/doc/docs/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://documentation-securonix.github.io/doc/docs/Getting-Started-with-Productboard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://documentation-securonix.github.io/doc/docs/Getting-Started-with-Productboard/</guid><description>Getting Started with Productboard # Access Link: https://securonixinc.productboard.com/insights/notes/all-notes Productboard is a dedicated product management system that helps you align everyone on the right features to build next. Currently, we have multiple communication channels for customer feedback, requests as well as internal communication so some data might be lost and it might not get prioritized properly. Productboard helps with this aspect by consolidating all data in one place and also helps using that insights to prioritise and build new features.</description></item><item><title/><link>http://documentation-securonix.github.io/doc/docs/Getting-Started-with-Productboard1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://documentation-securonix.github.io/doc/docs/Getting-Started-with-Productboard1/</guid><description>Getting Started with Productboard # Access Link: https://securonixinc.productboard.com/insights/notes/all-notes Productboard is a dedicated product management system that helps you align everyone on the right features to build next. Currently, we have multiple communication channels for customer feedback, requests as well as internal communication so some data might be lost and it might not get prioritized properly. Productboard helps with this aspect by consolidating all data in one place and also helps using that insights to prioritise and build new features.</description></item><item><title/><link>http://documentation-securonix.github.io/doc/docs/Supported_Connectors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://documentation-securonix.github.io/doc/docs/Supported_Connectors/</guid><description>Supported Connector Guides - Published # Vendor
+Collection Method
+Datasource
+Type
+Documentation Link
+Status
+Symantec
+Syslog
+Symantec Endpoint Protection (SEPM)
+OOTB
+https://documentation.securonix.com/onlinedoc/Content/Connectors/Content/Datasource%20Deployment%20Guides/PDF%20Deployment%20Guides/Symantec%20EPM%20Deployment%20Guide.pdf
+Published
+Palo Alto
+Syslog
+Palo Alto Next-Generation Firewall
+OOTB
+https://documentation.securonix.com/onlinedoc/Content/Connectors/Content/Datasource%20Deployment%20Guides/PDF%20Deployment%20Guides/Palo%20Alto_Next-Generation%20Firewall.pdf
+Published
+Cisco Systems
+Syslog
+Cisco ISE
+OOTB
+https://documentation.securonix.com/onlinedoc/Content/Connectors/Content/Datasource%20Deployment%20Guides/PDF%20Deployment%20Guides/Cisco_ISE%20Deployment%20Guide.pdf
+Published
+Microsoft Corporation
+Syslog
+Microsoft Windows (NxLog)
+OOTB
+https://documentation.securonix.com/onlinedoc/Content/Connectors/Content/Datasource%20Deployment%20Guides/PDF%20Deployment%20Guides/Microsoft%20Windows%20-%20NXLogs%20Deployment%20Guide.pdf
+Published
+Fortinet
+Syslog
+Fortigate
+OOTB
+https://documentation.securonix.com/onlinedoc/Content/Connectors/Content/Datasource%20Deployment%20Guides/PDF%20Deployment%20Guides/Fortinet_Next-Generation%20Firewall.pdf
+Published
+Bind DNS
+Syslog
+BIND DNS
+OOTB
+https://documentation.securonix.com/onlinedoc/Content/Connectors/Content/Datasource%20Deployment%20Guides/PDF%20Deployment%20Guides/BIND%20DNS%20Deployment%20Guide.pdf
+Published
+Squid
+Syslog
+Squid Proxy
+OOTB</description></item></channel></rss>
